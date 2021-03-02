@@ -1,0 +1,74 @@
+h1{
+    color:darkmagenta;
+}
+.halfwidth{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.halfwidth img{
+    width:100%;
+}
+.banner{
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+section{
+    height:500px;
+    }
+
+}
+.banner2 img{
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+}
+.link{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(230, 54, 83),rgb(207, 110, 126));
+    padding:5px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 600px;
+}
+#alignment{
+    text-align: center;
+}
+.size img{
+    width:25%; 
+    float:left;
+    margin-left: 2%;
+    padding-left: 2%;
+}
+.center
+{
+    text-align:center;
+}
+.color{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(219, 73, 97), orange);
+    margin:300px;
+    margin-top: 0%;
+    padding:10px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    
+    
+    color: white;
+    text-align: center;
+    
+}
+#text{
+    font-weight:900;
+    color:white;
+    text-decoration: none;
+}
+    .foot{
+        text-align: center;
+        color:gray;
+    }
+    .footer{
+        background-image: url("footer-bg.png");
+    }
